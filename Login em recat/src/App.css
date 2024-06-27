@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  text-shadow: #000 1px 1px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+ background-image: url("assets/Japan_Tokio_Skyline_und_Mt._Fuji.jpg");
+ background-size: cover;
+ background-position: center;
+}
+
+.container .singup-link {
+  font-size: 15px;
+  text-align: center;
+  margin: 20px 0 10px;
+
+}
+.singup-link p a {
+  color: aliceblue;
+  text-shadow: none;
+}
