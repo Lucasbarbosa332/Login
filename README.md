@@ -12,3 +12,5 @@ Formulario de login simples usando react js com NPM create-vite nao esta em depl
 <img width=100% src="https://github.com/Lucasbarbosa332/Login/blob/main/Captura%20de%20tela_25-6-2024_215526_localhost.jpeg"></img>
 
 
+ <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
